@@ -11,6 +11,8 @@
 
     <modules>
         <module>counter-service</module>
+        <module>eureka-server</module>
+        <module>gateway</module>
     </modules>
 
     <properties>
